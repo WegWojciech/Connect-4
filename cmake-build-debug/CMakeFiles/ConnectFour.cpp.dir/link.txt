@@ -1,0 +1,2 @@
+/usr/bin/ar qc libConnectFour.cpp.a CMakeFiles/ConnectFour.cpp.dir/RandomAI.cpp.o CMakeFiles/ConnectFour.cpp.dir/BetterAI.cpp.o CMakeFiles/ConnectFour.cpp.dir/Display.cpp.o
+/usr/bin/ranlib libConnectFour.cpp.a
